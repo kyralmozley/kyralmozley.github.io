@@ -285,7 +285,7 @@ INDEX
   height: 100%;
   display: inline-block;
   float: right;
-  background-image: url("https://raw.githubusercontent.com/kyralmozley/kyralmozley.github.io/master/img/41.JPG");
+  background-image: url(img/41.JPG);
 
 }
 .index-right ul a {
