@@ -461,7 +461,7 @@ INDEX
     @media only screen and (max-width: 767px) {
       .header-area .pixel-main-menu {
         padding: 0; } }
-    .header-area .pixel-main-menu .classy-nav-container {
+    /*.header-area .pixel-main-menu .classy-nav-container {
       background-color: transparent; }
     .header-area .pixel-main-menu .classy-navbar {
       height: 100px;
@@ -523,6 +523,8 @@ INDEX
         color: #212121;
         font-size: 14px;
         padding: 0 20px; }
+
+        
   .header-area .top-social-info {
     position: relative;
     z-index: 1; }
@@ -573,6 +575,7 @@ INDEX
       .header-area .top-social-info a:hover, .header-area .top-social-info a:focus {
         border-color: #fff;
         color: #57b99d; }
+        */
   .header-area .is-sticky .pixel-main-menu {
     background-color: #37393A;
     box-shadow: 0 7px 40px 0 rgba(0, 0, 0, 0.3); }
