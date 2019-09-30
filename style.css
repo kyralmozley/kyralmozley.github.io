@@ -417,7 +417,7 @@ INDEX
 .bg-fixed {
   background-attachment: fixed !important; }
 
-/* :: 3.6.0 ScrollUp */
+/* :: 3.6.0 ScrollUp
 #scrollUp {
   background-color: #37393A;
   border-radius: 5px 0 0 5px;
@@ -442,7 +442,7 @@ INDEX
   #scrollUp:hover {
     background-color: #57b99d;
     color: #ffffff; }
-/* :: 4.0 Header Area CSS */
+ :: 4.0 Header Area CSS */
 .header-area {
   position: absolute;
   z-index: 1000;
