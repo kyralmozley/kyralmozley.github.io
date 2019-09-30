@@ -397,7 +397,7 @@ img {
   visibility: visible;
   opacity: 1; }
 
-/* Mobile/Tablet Nav CSS */
+/* Mobile/Tablet Nav CSS
 .breakpoint-on .classycloseIcon {
   display: block; }
 .breakpoint-on .classy-navbar-toggler {
@@ -485,7 +485,7 @@ img {
 .breakpoint-on .classynav ul li.megamenu-item.active > a:after {
   color: #2ecc71; }
 
-/* Dark Theme CSS */
+Dark Theme CSS */
 .dark.classy-nav-container {
   background-color: #192a56; }
   .dark.classy-nav-container a {
