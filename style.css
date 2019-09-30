@@ -491,11 +491,11 @@ INDEX
             padding: 0 5px; } }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .header-area .pixel-main-menu .classy-navbar .classynav ul li a {
-            color: #212121;
+            color: #fff;
             font-size: 14px; } }
         @media only screen and (max-width: 767px) {
           .header-area .pixel-main-menu .classy-navbar .classynav ul li a {
-            color: #212121;
+            color: #fff;
             font-size: 14px; } }
       .header-area .pixel-main-menu .classy-navbar .classynav > ul > li:first-child a {
         padding-left: 0; }
@@ -507,15 +507,15 @@ INDEX
             padding-left: 10px; } }
       .header-area .pixel-main-menu .classy-navbar .classynav ul li.megamenu-item > a::after,
       .header-area .pixel-main-menu .classy-navbar .classynav ul li.has-down > a::after {
-        color: #ffffff; }
+        color: #fff; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .header-area .pixel-main-menu .classy-navbar .classynav ul li.megamenu-item > a::after,
           .header-area .pixel-main-menu .classy-navbar .classynav ul li.has-down > a::after {
-            color: #212121; } }
+            color: #fff; } }
         @media only screen and (max-width: 767px) {
           .header-area .pixel-main-menu .classy-navbar .classynav ul li.megamenu-item > a::after,
           .header-area .pixel-main-menu .classy-navbar .classynav ul li.has-down > a::after {
-            color: #212121; } }
+            color: #fff; } }
       .header-area .pixel-main-menu .classy-navbar .classynav ul li ul li.megamenu-item > a::after,
       .header-area .pixel-main-menu .classy-navbar .classynav ul li ul li.has-down > a::after {
         color: #212121; }
