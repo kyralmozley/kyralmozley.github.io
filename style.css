@@ -6,7 +6,6 @@
 /* :: 2.0 Import All CSS */
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400&display=swap');
 @import url(css/bootstrap.min.css);
-@import url(css/classy-nav.css);
 @import url(css/owl.carousel.min.css);
 @import url(css/animate.css);
 @import url(css/magnific-popup.css);
@@ -524,7 +523,7 @@ INDEX
         font-size: 14px;
         padding: 0 20px; }
 
-        
+
   .header-area .top-social-info {
     position: relative;
     z-index: 1; }
